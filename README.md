@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ILLORYS
-- 👀 I’m interested in Front-End development, 3D Modeling and Animation
+- 👀 I’m interested in Front-End development and im an EX - 3D Modeling and Animation worker.
 - 🌱 I’m currently learning Front-end dev.
 - 💞️ I’m looking to collaborate on Front-end and web designing opportunities.
 - 📫 How to reach me: oltyand@gmail.com
