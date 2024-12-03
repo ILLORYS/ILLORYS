@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Front-end and web designing opportunities.
 - 📫 How to reach me: oltyand@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 3 languages: English, Deutsch, Hungarian and i love Spaghetti Bolognese :D
+- ⚡ Fun fact: I speak 3 languages: English, German, Hungarian and i love Spaghetti Bolognese :D
 
 <!---
 ILLORYS/ILLORYS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
